@@ -1,0 +1,19 @@
+
+KEY FINDINGS
+============
+
+1. Mumbai Indians has the most all-time wins in IPL history: 144 wins from 261 matches played.
+
+2. Among teams with 30+ matches played, Gujarat Titans has the highest win percentage at 62.22%, ahead of Chennai Super Kings (58.23%) and Lucknow Super Giants (55.81%).
+
+3. Fielding first is by far the more common toss decision: 704 matches (64.3%) vs 391 matches (35.7%) choosing to bat first.
+
+4. Winning the toss is only a slight edge: the toss winner goes on to win the match 50.83% of the time (554/1090 matches) -- close to a coin flip, not a strong predictor.
+
+5. Choosing to field first after winning the toss converts to a match win more often (53.86%) than choosing to bat first (45.38%), a gap of about 8.5 percentage points.
+
+6. Eden Gardens is the most-used venue in IPL history, hosting 77 matches -- 4 more than the second most-used venue, Wankhede Stadium.
+
+7. Wickets-based wins (578 matches) are more common than runs-based wins (498 matches), consistent with the fielding-first advantage above -- more matches are decided by a successful run chase than by defending a total.
+
+8. The average margin differs sharply by win type: matches won by defending a total are won by an average of 30.1 runs, while matches won by chasing are won by an average of 6.2 wickets -- meaning most successful chases finish comfortably rather than in a nail-biter.
